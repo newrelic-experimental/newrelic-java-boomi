@@ -1,1 +1,2 @@
 rootProject.name = 'java-instrumentation-template'
+include 'boomi-container-execution'
