@@ -54,7 +54,7 @@ If you believe you have found a security vulnerability in this project or any of
 
 This release carrying the instrumentation binaries for Boomi runtime 
 
-### What are the componets where new relic agent is required to be deployed
+### What are the components where new relic agent is required to be deployed
 
 The '**Atom Node**' JVM which handles the general management and housekeeping for the node.  Not responsible for any actual data integration processing.  This JVM does currently have a New Relic Agent associated with it.
 Currently the Atom Cloud telemetry data that is provided to the New Relic platform comes from the 'Atom Node' JVM.  This is limited to higher level information about the Atom Cloud (e.g., number of processes running, number of attached sub-accounts, average execution time, queued executions, cluster issues).
