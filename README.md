@@ -1,74 +1,36 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
 
-![GitHub forks](https://img.shields.io/github/forks/newrelic-experimental/java-instrumentation-template?style=social)
-![GitHub stars](https://img.shields.io/github/stars/newrelic-experimental/java-instrumentation-template?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/newrelic-experimental/java-instrumentation-template?style=social)
+![GitHub forks](https://img.shields.io/github/forks/newrelic-experimental/newrelic-java-boomi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/newrelic-experimental/newrelic-java-boomi?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/newrelic-experimental/newrelic-java-boomi?style=social)
 
-![GitHub all releases](https://img.shields.io/github/downloads/newrelic-experimental/java-instrumentation-template/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/newrelic-experimental/java-instrumentation-template)
-![GitHub last commit](https://img.shields.io/github/last-commit/newrelic-experimental/java-instrumentation-template)
-![GitHub Release Date](https://img.shields.io/github/release-date/newrelic-experimental/java-instrumentation-template)
-
-
-![GitHub issues](https://img.shields.io/github/issues/newrelic-experimental/java-instrumentation-template)
-![GitHub issues closed](https://img.shields.io/github/issues-closed/newrelic-experimental/java-instrumentation-template)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/newrelic-experimental/java-instrumentation-template)
-![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/newrelic-experimental/java-instrumentation-template)
+![GitHub all releases](https://img.shields.io/github/downloads/newrelic-experimental/newrelic-java-boomi/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/newrelic-experimental/newrelic-java-boomi)
+![GitHub last commit](https://img.shields.io/github/last-commit/newrelic-experimental/newrelic-java-boomi)
+![GitHub Release Date](https://img.shields.io/github/release-date/newrelic-experimental/newrelic-java-boomi)
 
 
-# [Project Name - use format "newrelic-java-<name>"] [build badges go here when available]
+![GitHub issues](https://img.shields.io/github/issues/newrelic-experimental/newrelic-java-boomi)
+![GitHub issues closed](https://img.shields.io/github/issues-closed/newrelic-experimental/newrelic-java-boomi)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/newrelic-experimental/newrelic-java-boomi)
+![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/newrelic-experimental/newrelic-java-boomi)
 
->[Brief description - what is the project and value does it provide? How often should users expect to get releases? How is versioning set up? Where does this project want to go?]
 
-## Value 
+# New Relic Java Instrumentation for Boomi
 
-|Metrics | Events | Logs | Traces | Visualization | Automation |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|:x:|:x:|:x:|:white_check_mark:|:x:|:x:|
-
-### List of Metrics,Events,Logs,Traces 
-|Name | Type | Description |
-|:-:|:-:|:-:|
-|*metric.name* | Metric| *description*|
-|*event.name* | Event|  *description*|
-|*log.name* | Log|  *description*|
-|*trace.name*| Trace| *description*
-|---|---|---|
+Provides visibility into the Boomi Application   
 
   
 ## Installation
 
-> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
-
-## Getting Started
-
->[Simple steps to start working with the software similar to a "Hello World"]
-
-## Usage
-
->[**Optional** - Include more thorough instructions on how to use the software. This section might not be needed if the Getting Started section is enough. Remove this section if it's not needed.]
-
-## Building
-
->[**Optional** - Include this section if users will need to follow specific instructions to build the software from source. Be sure to include any third party build dependencies that need to be installed separately. Remove this section if it's not needed.]
-
-## Testing
-
->[**Optional** - Include instructions on how to run tests if we include tests with the codebase. Remove this section if it's not needed.]
+See Release Notes Below
 
 ## Support
 
 New Relic has open-sourced this project. This project is provided AS-IS WITHOUT WARRANTY OR DEDICATED SUPPORT. Issues and contributions should be reported to the project here on GitHub.
 
->[Choose 1 of the 2 options below for Support details, and remove the other one.]
-
->[Option 1 - no specific thread in Community]
 >We encourage you to bring your experiences and questions to the [Explorers Hub](https://discuss.newrelic.com) where our community members collaborate on solutions and new ideas.
-
->[Option 2 - thread in Community]
->New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub.
->You can find this project's topic/threads here: [URL for Community thread]
 
 ## Contributing
 
