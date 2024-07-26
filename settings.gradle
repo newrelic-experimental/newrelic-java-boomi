@@ -1,2 +1,3 @@
 rootProject.name = 'java-instrumentation-template'
 include 'boomi-container-execution'
+include 'boomi-connector-wss'
